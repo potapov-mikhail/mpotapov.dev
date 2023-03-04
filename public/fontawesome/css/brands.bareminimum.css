@@ -21,32 +21,19 @@
   font-weight: 400;
 }
 
-
-.fa-github:before {
-  content: "\f09b";
+.fa-linkedin-in:before {
+  content: "\f0e1";
 }
 
-
-.fa-github-alt:before {
-  content: "\f113";
+.fa-linkedin:before {
+  content: "\f08c";
 }
 
-.fa-square-github:before {
-  content: "\f092";
+.fa-telegram:before {
+    content: "\f2c6";
 }
 
-.fa-github-square:before {
-  content: "\f092";
-}
+.fa-telegram-plane:before {
+      content: "\f2c6"; 
+}    
 
-.fa-twitter:before {
-  content: "\f099";
-}
-
-.fa-square-twitter:before {
-  content: "\f081";
-}
-
-.fa-twitter-square:before {
-  content: "\f081";
-}
